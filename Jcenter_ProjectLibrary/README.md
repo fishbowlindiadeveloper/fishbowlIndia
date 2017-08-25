@@ -1,1 +1,1 @@
-# JMBA_SpendGo_Android_SDK
+# Jcenter_ProjectLibrary
